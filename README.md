@@ -1,5 +1,5 @@
 # About Me:
-Hi! My name is Rustamov Rustam. I am a frontend developer.
+Hi! My name is Rustam Rustamov. I am a frontend developer.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
